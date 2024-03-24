@@ -1,5 +1,5 @@
 def main():
-  book_path = 'books/Franky.txt'
+  book_path = 'books/Franky.txt' #copy book text into file, and link here
   text = book_text(book_path)
   words = num_words(text)
   print("--- Begin the book report ---")
